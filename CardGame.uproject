@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A309B4B9-46CE-4C0F-A841-558EF6828647}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CardGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"Android",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"Windows"
+	]
+}
